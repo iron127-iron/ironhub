@@ -12,12 +12,12 @@
       "permanent": false
     },
     {
-      "source": "/iron127",
+      "source": "/iron",
       "destination": "https://iron127.cc.cd/",
       "permanent": false
     },
     {
-      "source": "/iron127/:path*",
+      "source": "/iron/:path*",
       "destination": "https://iron127.cc.cd/",
       "permanent": false
     }
