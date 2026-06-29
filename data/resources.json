@@ -1,0 +1,32 @@
+[
+  {
+    "id": "r-000",
+    "title": "範例文字檔",
+    "description": "位於 resources 資料夾的 範例文字檔 檔案，格式為 TXT，可直接下載使用。",
+    "category": "doc",
+    "tags": [
+      "txt"
+    ],
+    "fileSize": "0 KB",
+    "format": "TXT",
+    "downloadUrl": "resources/範例文字檔.txt",
+    "downloads": 44355,
+    "rating": 3.5,
+    "dateAdded": "2026-01-31"
+  },
+  {
+    "id": "r-001",
+    "title": "範例類型壓縮檔",
+    "description": "位於 resources 資料夾的 範例類型壓縮檔 檔案，格式為 ZIP，可直接下載使用。",
+    "category": "archive",
+    "tags": [
+      "zip"
+    ],
+    "fileSize": "0 KB",
+    "format": "ZIP",
+    "downloadUrl": "resources/範例類型壓縮檔.zip",
+    "downloads": 26663,
+    "rating": 4.2,
+    "dateAdded": "2026-06-16"
+  }
+]
