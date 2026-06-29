@@ -1,0 +1,25 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "redirects": [
+    {
+      "source": "/orig",
+      "destination": "https://origmc.cc.cd/",
+      "permanent": false
+    },
+    {
+      "source": "/orig/:path*",
+      "destination": "https://origmc.cc.cd/",
+      "permanent": false
+    },
+    {
+      "source": "/iron127",
+      "destination": "https://iron127.cc.cd/",
+      "permanent": false
+    },
+    {
+      "source": "/iron127/:path*",
+      "destination": "https://iron127.cc.cd/",
+      "permanent": false
+    }
+  ]
+}
