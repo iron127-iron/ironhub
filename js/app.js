@@ -41,7 +41,7 @@
   }
 
   const CATEGORY_LABELS = {
-    'doc': '人文檔',
+    'doc': '文檔',
     'archive': '壓縮檔',
     'design': '設計資源',
     'code': '程式碼',
